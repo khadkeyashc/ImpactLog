@@ -84,3 +84,12 @@ cd ImpactLogFrontend
 npm install
 npm start
 
+### 1️ Clone Backend
+
+```bash
+git clone https://github.com/khadkeyashc/ImpactLogBackend.git
+cd ImpactLogBackend
+npm install
+npm run dev
+
+
